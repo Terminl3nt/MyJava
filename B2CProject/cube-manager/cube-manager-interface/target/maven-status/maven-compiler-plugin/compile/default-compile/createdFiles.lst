@@ -1,0 +1,4 @@
+com\ecube\service\ItemService.class
+com\ecube\service\ItemCatService.class
+com\ecube\service\ContentCategoryService.class
+com\ecube\service\ContentService.class

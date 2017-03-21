@@ -1,0 +1,3 @@
+com\ecube\sso\service\RegisterService.class
+com\ecube\sso\service\LoginService.class
+com\ecube\sso\service\TokenService.class

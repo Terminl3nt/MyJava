@@ -1,0 +1,3 @@
+com\ecube\sso\controller\LoginController.class
+com\ecube\sso\controller\TokenController.class
+com\ecube\sso\controller\RegisterController.class

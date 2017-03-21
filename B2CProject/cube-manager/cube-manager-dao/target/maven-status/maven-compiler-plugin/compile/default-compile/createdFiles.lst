@@ -1,0 +1,11 @@
+com\ecube\mapper\TbItemParamItemMapper.class
+com\ecube\mapper\TbOrderItemMapper.class
+com\ecube\mapper\TbItemParamMapper.class
+com\ecube\mapper\TbOrderMapper.class
+com\ecube\mapper\TbUserMapper.class
+com\ecube\mapper\TbContentMapper.class
+com\ecube\mapper\TbItemMapper.class
+com\ecube\mapper\TbContentCategoryMapper.class
+com\ecube\mapper\TbOrderShippingMapper.class
+com\ecube\mapper\TbItemCatMapper.class
+com\ecube\mapper\TbItemDescMapper.class

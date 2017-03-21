@@ -1,0 +1,4 @@
+com\ecube\search\message\ItemAddMessageListener.class
+com\ecube\search\mapper\ItemSearchMapper.class
+com\ecube\search\dao\SearchDao.class
+com\ecube\search\service\SearchItemServiceImpl.class
