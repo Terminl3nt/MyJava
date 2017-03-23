@@ -18,6 +18,6 @@ public class Boxing {
         System.out.println(c == (a+b));//true
         System.out.println(c.equals(g));//false
         System.out.println((a+b) == c);//true
-        System.out.println(g.equals((a+b)));//false 不知道为什么？
+        System.out.println(g.equals((a+b)));//false 不知道为什么？笔者认为应该是Integer不像是String已经重写equals方法，所以还是按照Object的equals方法进行比较
     }
 }
